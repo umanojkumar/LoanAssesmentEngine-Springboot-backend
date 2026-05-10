@@ -1,4 +1,4 @@
-# Auth Backend ( Spring Boot )
+# Auth Backend (Spring Boot)
 
 Skeleton Spring Boot project providing JWT auth endpoints and a simple data save API backed by Postgres.
 
